@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![ex 5](https://github.com/user-attachments/assets/60e81415-e844-4226-ad31-4259cea34a8b)
+
+### Name: mahalakshmi k
+### Register Number:212222240057
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
